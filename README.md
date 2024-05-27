@@ -13,3 +13,7 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
+## Alterações feitas
+
+1. Mudança do componente de ListarTarefas para uma visualização com Cards
+2. Mudança na Estilização dos componentes AdicionarTarefas e EditarTarefas
